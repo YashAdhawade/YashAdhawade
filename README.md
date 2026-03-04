@@ -9,12 +9,10 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="mailto:ASPATIL2904@GMAIL.COM">
+  <a href="mailto:yashadhawade04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/iam_adi29">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
+  
   <!-- Add your LinkedIn or Twitter here if you want! -->
   <!-- <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 </p>
@@ -23,25 +21,24 @@
 
 ## 💫 About Me
 
-I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
+I’m **Yash Adhawade**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
 
-- 🏢 I currently work as a **Mentor & Trainer**, delivering technical guidance and project-based learning under **DevineTech Solutions**, where I focus on practical development, architecture clarity, and industry-ready skills.
-- 💼 Alongside this, I am actively working with **Dexpert Systems**, contributing to development and learning in advanced system design and modern technology stacks.
+- 🏢 I currently Student in Trinity College of Engineering and research.
+ I am actively working with **Dexpert Systems**, contributing to development and learning in advanced system design and modern technology stacks.
 
 ### 💻 What I Do
 - 🌐 Full Stack Web Development (Frontend & Backend)
 - 🎓 Mentoring & Training aspiring developers
 - 🏗️ Project Architecture & System Design
 - 🔬 Research-oriented and problem-solving based development
-- 🤝 Guiding interns on real-world applications and best practices
+
 
 ### 🚀 Interests
 - 🤖 AI-assisted systems & automation
 - 🧩 Clean code, system thinking, and product mindset
 - 📚 Teaching through real projects
 
-### 📌 Philosophy
-> *"Build with purpose. Learn continuously. Teach what you master."*
+
 
 <br>
 
@@ -85,13 +82,6 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
 
 ## 🚀 Upcoming Projects
 
-1. **FLAT MATE** - [Upcoming]
-2. **NODE NET** - [Upcoming]
-3. **ENGIWORLD** - [Upcoming]
-4. **TEAMO :DIY STORE** - [Upcoming]
-5. **DAILY ROUTINE TRACKER** - [Upcoming]
-
----
 
 ## 🛠️ IoT Projects (Patented)
 
@@ -102,22 +92,10 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
 
 ## 📖 Author of Books
 
-1. **LAST SIX DAYS**
-2. **THE LOVE I CANT HOLD**
-3. **THE TUNNEL PARADOX**
-4. **I KILLED MYSELF**
-5. **THE FALL OF YASAKA**
-6. **IS THIS FIRST ?**
-
 
 ## 📊 GitHub Stats
 
   
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
-</div>
-
-<br>
 
 
 
