@@ -24,7 +24,7 @@
 I’m **Yash Adhawade**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
 
 - 🏢 I currently Student in Trinity College of Engineering and research.
- I am actively working with **Dexpert Systems**, contributing to development and learning in advanced system design and modern technology stacks.
+
 
 ### 💻 What I Do
 - 🌐 Full Stack Web Development (Frontend & Backend)
